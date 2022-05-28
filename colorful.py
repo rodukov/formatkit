@@ -21,10 +21,11 @@ class background:
     default = '\x1b[49m'
 
 class format:
-    default = '\x1b[0m'
-    regular = '\x1b[22m'
+    default = '\x1b[22m'
     bold = '\x1b[1m'
     dim = '\x1b[2m'
     italic = '\x1b[3m'
     underline = '\x1b[4m'
     spoiler = '\x1b[7m\x1b[8m'
+
+default = '\x1b[0m'
