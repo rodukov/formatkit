@@ -1,0 +1,8 @@
+README.md
+setup.py
+formatkit/__init__.py
+formatkit/formatkit.py
+formatkit.egg-info/PKG-INFO
+formatkit.egg-info/SOURCES.txt
+formatkit.egg-info/dependency_links.txt
+formatkit.egg-info/top_level.txt
