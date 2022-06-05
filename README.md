@@ -1,13 +1,13 @@
-# colorful
+# formatkit
 A package that can color text, fill text, and format text
 ## Install it
 ### Linux and MacOS
-`pip3 install colorful`
+`pip3 install formatkit`
 ### Windows
-`pip install colorful`
+`pip install formatkit`
 ### How to use it?
 ```python
-from colorful import text, background, format, default
+from formatkit import text, background, format, default
 print(text.red+"Red text"+default)
 print(background.red+"Red background"+default)
 print(format.italic+"Italic text"+default)
