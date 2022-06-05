@@ -4,8 +4,8 @@ class text:
     green = '\x1b[32m'
     yellow = '\x1b[33m'
     blue = '\x1b[34m'
-    orange = '\x1b[35m'
-    magenta = '\x1b[36m'
+    magenta = '\x1b[35m'
+    cyan = '\x1b[36m'
     white = '\x1b[37m'
     default = '\x1b[39m'
 
@@ -15,8 +15,8 @@ class background:
     green = '\x1b[42m'
     yellow = '\x1b[43m'
     blue = '\x1b[44m'
-    orange = '\x1b[45m'
-    magenta = '\x1b[46m'
+    magenta = '\x1b[45m'
+    cyan = '\x1b[46m'
     white = '\x1b[47m'
     default = '\x1b[49m'
 
